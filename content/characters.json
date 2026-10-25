@@ -7,7 +7,7 @@
     "light":   { "label": "Light",   "color": "#d9b445" }
   },
   "groups": [
-    { "id": "guard",  "title": "The Shadow Guard", "sub": "Three of its members so far" },
+    { "id": "guard",  "title": "The Shadow Guard", "sub": "Members and future wielders" },
     { "id": "others", "title": "Beyond the Guard", "sub": "Allies, enemies, and the ones who came before" }
   ],
   "characters": [
@@ -15,43 +15,49 @@
       "id": "abhimanyu", "group": "guard", "name": "Abhimanyu Rathore",
       "role": "The heart of the Shadow Guard", "element": "unknown", "weapon": "Black sais", "first": "ch1",
       "quote": "Can I be the person this world can trust?",
-      "bio": "The main protagonist. After losing his fiancée, Abhimanyu has lost trust in himself, and his guilt is what drives him not to lose anyone else."
+      "bio": "The main protagonist. A brilliant young mind whose prototype opened a door to the cosmic unknown, now bearing the weight of a tragedy that awakened his latent destiny."
     },
     {
       "id": "ishani", "group": "guard", "name": "Ishani Sanghvi",
-      "role": "Second in command", "element": "heat", "weapon": "Claws", "first": "ch1",
-      "quote": "The world as I know it is full of sick men, and I will treat them my way.",
-      "bio": "One of the strongest women in the astral world. But can Abhimanyu make her see the world the way she doesn't want to see it?"
+      "role": "Second in command", "element": "heat", "weapon": "Thermal claws", "first": "ch1",
+      "quote": "A hunter tracks rabid dogs. Surrender, or there will be no ashes left of you to bury.",
+      "bio": "One of the fiercest women in the Astral world, tracking rogue threats across continents with fiery thermal claws."
     },
     {
       "id": "kunal", "group": "guard", "name": "Kunal Nasser",
       "role": "Leader", "origin": "Half Indian, half Egyptian",
       "quote": "We have seen wars and battles, chaos and destruction. Will humans ever stop?",
-      "bio": "Leader of the Shadow Guard. Will he be able to lead his team through their greater quests?"
-    },
-    {
-      "id": "alexander", "group": "others", "name": "Alexander Schiss",
-      "role": "Unknown",
-      "quote": "Every human is inherently evil. We just pretend, so that we can achieve our goals.",
-      "bio": "Who is this guy? He looks like Abhimanyu but claims no relation. What's his deal?"
+      "bio": "Leader of the Shadow Guard. An experienced veteran tasked with guiding the next generation of Astrals through cosmic turmoil."
     },
     {
       "id": "aadhya", "group": "others", "name": "Aadhya Mira",
-      "role": "Abhimanyu's fiancée", "element": "human", "first": "ch1",
-      "quote": "You have to be the trust the world needs, Abhi.",
-      "bio": "The emotional anchor we all need."
+      "role": "Abhimanyu's fiancée & emotional anchor", "element": "human", "first": "ch1",
+      "quote": "This world needs that trust… Be their trust Abhimanyu, be my trust…",
+      "bio": "Abhimanyu's lifelong partner, whose unwavering faith and final wish gave birth to the awakening of the cosmic wielder."
     },
     {
       "id": "raj", "group": "others", "name": "Raj Vetramani",
-      "role": "Bharatvarsh's strongest astral, 2189", "element": "ice", "weapon": "Trident", "form": "Ice beast", "first": "prologue",
-      "quote": "Protecting the weak is my duty.",
-      "bio": "A hero who defines heroism. But will he always be remembered as one?"
+      "role": "Bharatvarsh's strongest Astral, 2189", "element": "ice", "weapon": "Trident", "form": "Ice beast", "first": "prologue",
+      "quote": "The nation must exist. But for that, you need to live.",
+      "bio": "A legendary hero who defined selfless sacrifice. He gave his life defending Delhi and the Artifact against Shan Ziang."
     },
     {
-      "id": "shan", "group": "others", "name": "Shan Zhuang",
+      "id": "veraya", "group": "others", "name": "Veraya Pillai",
+      "role": "The Heart of Bharatvarsh, 2189", "element": "heat", "weapon": "Mercury oxide darts & Acid", "first": "prologue",
+      "quote": "Raj did not trust you… and neither do I. You will never find the Artifact again!",
+      "bio": "Model turned fierce Astral operative who fought alongside Raj Vetramani and leaped into the Satvati River to keep the Artifact from falling into enemy hands."
+    },
+    {
+      "id": "shan", "group": "others", "name": "Shan Ziang",
       "role": "The Great Astral of Zhongguo", "element": "light", "weapon": "Kusarigama", "form": "Lightning dragon", "first": "prologue",
-      "quote": "The world needs hierarchy, and I will always remain at the top of it.",
-      "bio": "Can Shan's obsession build the world he wants, or will it end badly?"
+      "quote": "The world doesn't have time. No one does.",
+      "bio": "A supreme Astral wielding a Kusarigama that cleaved mountains. His insatiable obsession with the Artifact brought Delhi to ruins."
+    },
+    {
+      "id": "butcher", "group": "others", "name": "Butcher",
+      "role": "Assassin of the Order of Tombs", "element": "light", "weapon": "Twin knives & magnetic iron manipulation", "first": "ch2",
+      "quote": "There is a lot more fun to killing than just completing a job, kid.",
+      "bio": "The cold-blooded Astral assassin of the Order of Tombs who orchestrated the massacre at the Verakhonda Museum in Jaipur."
     }
   ]
 }
