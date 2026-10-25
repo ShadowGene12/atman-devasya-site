@@ -1,0 +1,138 @@
+{
+  "title": "Atman Devasya",
+  "titleDevanagari": "आत्मन् देवस्य",
+  "book": "Book One · Opening Saga",
+  "draft": false,
+  "openingQuote": "I guess I never wanted to be a hero… As a matter of fact, the definition of being a hero was the remotest reality to me.",
+  "chapters": [
+    {
+      "id": "prologue",
+      "file": "prologue.txt",
+      "label": "Prologue",
+      "title": "Opening Saga",
+      "where": "Siachen · Delhi · Kiraj · 2189",
+      "hook": {
+        "text": "The world doesn't have time. No one does.",
+        "who": "Shan Zhuang"
+      }
+    },
+    {
+      "id": "ch1",
+      "file": "chapter-01.txt",
+      "label": "Chapter I",
+      "title": "So Shall We",
+      "where": "Mumbai · 2204",
+      "hook": {
+        "text": "A shadow which helps to guide light to the lost.",
+        "who": "Aadhya"
+      },
+      "recap": "2189. Shan Zhuang came for the Artifact. Raj Vetramani died defending Delhi, and Veraya Pillai went over a cliff into the Satvati with the Artifact in her hands."
+    },
+    {
+      "id": "ch2",
+      "file": "chapter-02.txt",
+      "label": "Chapter II",
+      "title": "A Miracle, A Massacre",
+      "where": "Mumbai · Jaipur · 2204",
+      "hook": {
+        "text": "I just felt as if something spoke within me to be cautious.",
+        "who": "Abhimanyu"
+      },
+      "recap": "Abhimanyu turned 24 and learned his time dilator might finally get neutronium. That night he fought a dozen men in an alley over a stray pup. Off the Horn of Africa, a golden eagle dived at Titanus Spewah."
+    }
+  ],
+  "upcoming": {
+    "label": "Chapter III",
+    "date": "",
+    "note": "Being written. The release date goes to the email list first."
+  },
+  "signup": {
+    "heading": "Get Chapter III the day it drops",
+    "sub": "One email per release. Nothing else.",
+    "formAction": "",
+    "emailField": "email_address"
+  },
+  "contact": {
+    "email": "",
+    "formAction": "",
+    "instagram": "",
+    "youtube": ""
+  },
+  "author": {
+    "name": "Atharva Nandkishor Pawar",
+    "photo": "content/author.jpg",
+    "lines": [
+      "I'm a student of Smolensk State Medical University studying medicine.",
+      "Fantasy has always been my genre and I wanted to create something truly of my own.",
+      "Thanks to my friends and family alike, I could finally complete this cherished wish.",
+      "I dedicate this novel and its immense success to every well-wisher alike."
+    ],
+    "why": "I present to everyone a world where they will learn how to trust themselves and others... and how they can relate to superheroes who live in a book and yet are so alike them."
+  },
+  "cadence": "",
+  "home": {
+    "coldOpen": "I guess I never wanted to be a hero…",
+    "surge": {
+      "eyebrow": "Radar Point 1001 · Siachen Glacier · 2189",
+      "lines": [
+        {
+          "text": "I felt a power surge over the east, approximately 35°11′57″. We have to be sure, I will just repor…",
+          "who": "Lt. Kiran"
+        },
+        {
+          "text": "The huge blast tore open the control room's western wall."
+        }
+      ]
+    },
+    "artifact": {
+      "eyebrow": "The Artifact",
+      "lines": [
+        {
+          "text": "It's a mere ancient pendant.",
+          "who": "Delhi"
+        },
+        {
+          "text": "This junk only has fancy covering.",
+          "who": "Col. Lalwani"
+        },
+        {
+          "text": "It's no coincidence that a titan had it in possession.",
+          "who": "Raj Vetramani"
+        },
+        {
+          "text": "Hand it over, or see your beloved city turned to mere dust.",
+          "who": "Shan Zhuang"
+        }
+      ],
+      "question": "Why?"
+    },
+    "after": {
+      "eyebrow": "Mumbai · 2204",
+      "lines": [
+        {
+          "text": "Fifteen years later."
+        },
+        {
+          "text": "We were kids when the capital was rubbled by Shan Zhuang.",
+          "who": "Aadhya"
+        },
+        {
+          "text": "A dead astral attracts attention. And that name has been forbidden for a decade.",
+          "who": "Aadhya"
+        }
+      ]
+    },
+    "hero": {
+      "character": "abhimanyu",
+      "lines": [
+        {
+          "text": "…but he wants to wash dishes and cook in a 3rd rated restaurant where barely ghosts come to eat.",
+          "who": "Aadhya"
+        },
+        {
+          "text": "He was just looking, as if the weapon just called him."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "elements": {
+    "unknown": { "label": "Unknown", "color": "#e2402c" },
+    "human":   { "label": "Human",   "color": "#a9a4b6" },
+    "ice":     { "label": "Ice",     "color": "#6fb7e2" },
+    "heat":    { "label": "Heat",    "color": "#f08a3e" },
+    "light":   { "label": "Light",   "color": "#d9b445" }
+  },
+  "groups": [
+    { "id": "guard",  "title": "The Shadow Guard", "sub": "Three of its members so far" },
+    { "id": "others", "title": "Beyond the Guard", "sub": "Allies, enemies, and the ones who came before" }
+  ],
+  "characters": [
+    {
+      "id": "abhimanyu", "group": "guard", "name": "Abhimanyu Rathore",
+      "role": "The heart of the Shadow Guard", "element": "unknown", "weapon": "Black sais", "first": "ch1",
+      "quote": "Can I be the person this world can trust?",
+      "bio": "The main protagonist. After losing his fiancée, Abhimanyu has lost trust in himself, and his guilt is what drives him not to lose anyone else."
+    },
+    {
+      "id": "ishani", "group": "guard", "name": "Ishani Sanghvi",
+      "role": "Second in command", "element": "heat", "weapon": "Claws", "first": "ch1",
+      "quote": "The world as I know it is full of sick men, and I will treat them my way.",
+      "bio": "One of the strongest women in the astral world. But can Abhimanyu make her see the world the way she doesn't want to see it?"
+    },
+    {
+      "id": "kunal", "group": "guard", "name": "Kunal Nasser",
+      "role": "Leader", "origin": "Half Indian, half Egyptian",
+      "quote": "We have seen wars and battles, chaos and destruction. Will humans ever stop?",
+      "bio": "Leader of the Shadow Guard. Will he be able to lead his team through their greater quests?"
+    },
+    {
+      "id": "alexander", "group": "others", "name": "Alexander Schiss",
+      "role": "Unknown",
+      "quote": "Every human is inherently evil. We just pretend, so that we can achieve our goals.",
+      "bio": "Who is this guy? He looks like Abhimanyu but claims no relation. What's his deal?"
+    },
+    {
+      "id": "aadhya", "group": "others", "name": "Aadhya Mira",
+      "role": "Abhimanyu's fiancée", "element": "human", "first": "ch1",
+      "quote": "You have to be the trust the world needs, Abhi.",
+      "bio": "The emotional anchor we all need."
+    },
+    {
+      "id": "raj", "group": "others", "name": "Raj Vetramani",
+      "role": "Bharatvarsh's strongest astral, 2189", "element": "ice", "weapon": "Trident", "form": "Ice beast", "first": "prologue",
+      "quote": "Protecting the weak is my duty.",
+      "bio": "A hero who defines heroism. But will he always be remembered as one?"
+    },
+    {
+      "id": "shan", "group": "others", "name": "Shan Zhuang",
+      "role": "The Great Astral of Zhongguo", "element": "light", "weapon": "Kusarigama", "form": "Lightning dragon", "first": "prologue",
+      "quote": "The world needs hierarchy, and I will always remain at the top of it.",
+      "bio": "Can Shan's obsession build the world he wants, or will it end badly?"
+    }
+  ]
+}

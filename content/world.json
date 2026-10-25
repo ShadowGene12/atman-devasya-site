@@ -1,0 +1,207 @@
+{
+  "places": [
+    {
+      "id": "siachen",
+      "name": "Siachen Glacier",
+      "lat": 35.42,
+      "lon": 77.1,
+      "kind": "event",
+      "chapter": "prologue",
+      "text": "Radar Point 1001. Lt. Kiran feels a power surge to the east seconds before the wall comes down. Shan's first strike on Bharatvarsh, 2189."
+    },
+    {
+      "id": "delhi",
+      "name": "Delhi",
+      "lat": 28.61,
+      "lon": 77.21,
+      "kind": "ruin",
+      "chapter": "prologue",
+      "text": "The old capital. Fifteen squadrons of X-90s scramble from Palam Air Base. Raj Vetramani falls here and Shan's bolt beam levels the city. It was never rebuilt."
+    },
+    {
+      "id": "jaipur",
+      "name": "Jaipur",
+      "lat": 26.91,
+      "lon": 75.79,
+      "kind": "city",
+      "chapter": "ch2",
+      "text": "Capital since Delhi fell, split between locals and refugees from the north. Home of the Verakhonda Museum and the black sais in its inner chamber."
+    },
+    {
+      "id": "mumbai",
+      "name": "Mumbai",
+      "lat": 19.08,
+      "lon": 72.88,
+      "kind": "city",
+      "chapter": "ch1",
+      "text": "The University of Excellence sits closer to the sea than the city's own beaches. The Rathores live at 919 Vardhan Street, and Abhimanyu washes plates at Bhojan Darbar."
+    },
+    {
+      "id": "kiraj",
+      "name": "Kiraj",
+      "lat": 19.9,
+      "lon": 75.3,
+      "kind": "event",
+      "chapter": "prologue",
+      "text": "180 miles from Bombay. The astrals' doomsday bunker. The FS 60 never reaches it. A tributary of the Satvati runs five miles beyond, below the cliff where Veraya makes her stand."
+    },
+    {
+      "id": "mysore",
+      "name": "Mysore",
+      "lat": 12.3,
+      "lon": 76.64,
+      "kind": "site",
+      "chapter": "ch2",
+      "text": "Government facility holding the neutronium a student is not allowed to touch."
+    },
+    {
+      "id": "pondy",
+      "name": "Pondicherry",
+      "lat": 11.93,
+      "lon": 79.83,
+      "kind": "event",
+      "chapter": "prologue",
+      "text": "Raj's team draws Titanus Merwah away and pays for it. They are still scarred when Shan arrives."
+    },
+    {
+      "id": "zhongguo",
+      "name": "Zhongguo",
+      "lat": 34.3,
+      "lon": 108.9,
+      "kind": "power",
+      "chapter": "prologue",
+      "text": "Shan Zhuang's seat. The Philippines, Korea and Myanmar have already fallen in line."
+    },
+    {
+      "id": "kyoto",
+      "name": "Kyoto",
+      "lat": 35.01,
+      "lon": 135.77,
+      "kind": "event",
+      "chapter": "prologue",
+      "text": "It took three astrals together to bring down the one that hit Kyoto."
+    },
+    {
+      "id": "leizpez",
+      "name": "Leizpez",
+      "lat": 51.34,
+      "lon": 12.37,
+      "kind": "site",
+      "chapter": "prologue",
+      "text": "Where Raj chased the Artifact's trail while Delhi waited for him."
+    },
+    {
+      "id": "nairobi",
+      "name": "Nairobi",
+      "lat": -1.29,
+      "lon": 36.82,
+      "kind": "ruin",
+      "chapter": "ch1",
+      "text": "Destroyed in a recent monster attack. The astrals got the population out."
+    },
+    {
+      "id": "spewah",
+      "name": "Off the Horn of Africa",
+      "lat": 12.8,
+      "lon": 53.5,
+      "kind": "titan",
+      "chapter": "ch1",
+      "text": "Off the Horn of Africa, 2204. Titanus Spewah rises as a golden eagle dives from Sanghvi's cargo plane."
+    },
+    {
+      "id": "south",
+      "name": "Southern Landmass",
+      "lat": -42.5,
+      "lon": 80,
+      "kind": "land",
+      "chapter": "",
+      "text": "A continent between the Indian and Southern Oceans. Its name and its story arrive in later chapters."
+    }
+  ],
+  "kinds": {
+    "city": "Inhabited",
+    "ruin": "Destroyed",
+    "event": "Battle site",
+    "site": "Point of interest",
+    "power": "Seat of power",
+    "titan": "Titan sighting",
+    "land": "Uncharted"
+  },
+  "lore": [
+    {
+      "term": "Astrals",
+      "chapter": "prologue",
+      "text": "Humans chosen to harness astral energy. Each nation that has them leans on them against calamities, and fears them in equal measure. Astral energy obeys no known law of physics."
+    },
+    {
+      "term": "Astral form",
+      "chapter": "prologue",
+      "text": "The creature an astral can become at full power. Raj's ice beast, Prayan's magma phoenix, Shan's lightning dragon."
+    },
+    {
+      "term": "Astral weapons",
+      "chapter": "ch2",
+      "text": "Every astral carries one. When an astral dies, the weapon's power dies too, which is why an unregistered weapon that still feels alive is a problem."
+    },
+    {
+      "term": "The Great Astral Surge",
+      "chapter": "prologue",
+      "text": "The event that brought the first astrals. Shan has been fighting since, and split Mt. Nayamusa during it."
+    },
+    {
+      "term": "Titans",
+      "chapter": "prologue",
+      "text": "Named monsters that can take a city. Titanus Merwah left a massacre the government could not stop in 2189. Titanus Spewah rose in the Arabian Sea in 2204."
+    },
+    {
+      "term": "Hybrids, Entities, Aeromons",
+      "chapter": "prologue",
+      "text": "The other things that roam when astrals are not watching. Hybrids still haunt the Sahyadri forests."
+    },
+    {
+      "term": "The Artifact",
+      "chapter": "prologue",
+      "text": "A box holding a pendant, imprinted with a three-eyed winged creature that does not exist. Delhi's scientists call it junk. A Titan carried it, and Shan burned a capital looking for it."
+    },
+    {
+      "term": "Astral (Research) League",
+      "chapter": "prologue",
+      "text": "The international body astrals are supposed to answer to, and that new weapons are supposed to be reported to."
+    },
+    {
+      "term": "The Order of Tombs",
+      "chapter": "ch2",
+      "text": "Vanta Singhania's outfit. Assassinations across several countries, with Butcher as the blade."
+    },
+    {
+      "term": "University of Excellence",
+      "chapter": "ch1",
+      "text": "Mumbai's school for the country's best minds: astral science, meta species, human biology, and mostly defence technology."
+    },
+    {
+      "term": "Neutronium",
+      "chapter": "ch1",
+      "text": "Government-controlled. Fifty nanograms of it collapse into the mini black hole at the core of Abhimanyu's time dilator."
+    },
+    {
+      "term": "Jixonium",
+      "chapter": "ch1",
+      "text": "What Mumbai's street lamps burn."
+    },
+    {
+      "term": "Quids",
+      "chapter": "ch1",
+      "text": "Currency. One wash of the fountain's heating motor costs 20,000."
+    },
+    {
+      "term": "Zhargos missiles",
+      "chapter": "prologue",
+      "text": "Bharatvarsh's heaviest conventional weapon. Shan splits them in half with a light field."
+    },
+    {
+      "term": "X-90 and Maestro FS 60",
+      "chapter": "prologue",
+      "text": "The X-90 is the air force's front-line jet. The FS 60 is a supersonic road car with stealth no military radar can see, until Shan does."
+    }
+  ]
+}
