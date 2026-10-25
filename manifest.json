@@ -1,0 +1,20 @@
+{
+  "name": "Atman Devasya: Book One",
+  "short_name": "Atman Devasya",
+  "description": "An Indian mythological sci-fi saga by Atharva Nandkishor Pawar. Read Prologue and early chapters free online.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#08080e",
+  "theme_color": "#08080e",
+  "categories": ["books", "entertainment", "fiction"],
+  "icons": [
+    {
+      "src": "content/artifact-box.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}

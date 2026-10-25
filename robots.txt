@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 
+Sitemap: https://atman-devasya-site.atman-devasya2189.workers.dev/sitemap.xml
 Sitemap: https://atmandevasya.com/sitemap.xml
